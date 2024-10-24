@@ -1,11 +1,10 @@
-# [your app name here]
+# SoccerIQ
 
 CodePath WEB103 Final Project
 
 Designed and developed by: [your names here]
 
 🔗 Link to deployed app:
-
 
 ## About
 
