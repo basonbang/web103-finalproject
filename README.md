@@ -7,7 +7,7 @@
 Designed and developed by:
 
 - Jason Tang
-- Le
+- Le Nguyen
 - Albert C
 
 🔗 Link to deployed app: coming soon: https://github.com/
